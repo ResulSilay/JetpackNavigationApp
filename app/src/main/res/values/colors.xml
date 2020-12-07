@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#171717</color>
+    <color name="colorAccent">#00e776</color>
+
+    <color name="colorBottomNavBackgroundColor">#0031ca</color>
+    <color name="colorBottomNavPassiveColor">#001555</color>
+    <color name="colorBottomNavActiveColor">#FFFFFF</color>
+    <color name="colorNavigationColor">#002CB5</color>
+
+    <color name="white">#FFFFFF</color>
+</resources>

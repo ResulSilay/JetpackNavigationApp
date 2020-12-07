@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="home_blank_fragment">Home blank fragment</string>
+    <string name="student_blank_fragment">Students blank fragment\nenter student name...</string>
+    <string name="student_detail_blank_fragment">Student Detail blank fragment</string>
+    <string name="settings_blank_fragment">Settings blank fragment</string>
+    <string name="student_name_hint">Student name</string>
+</resources>
